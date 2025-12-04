@@ -22,16 +22,16 @@ control:
 
 ### start:
 
-![alt text](../pixel-coloring-test/img/1.jpg)
+![img start game](./img/1.jpg)
 
 ### walk:
 
-![alt text](../pixel-coloring-test/img/2.jpg)
+![img walk game](./img/2.jpg)
 
 ### fill color request:
 
-![alt text](../pixel-coloring-test/img/3.jpg)
+![img request color](./img/3.jpg)
 
 ### paints the square:
 
-![alt text](../pixel-coloring-test/img/4.jpg)
+![img paints the square](./img/4.jpg)
