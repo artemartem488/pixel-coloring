@@ -53,7 +53,7 @@ Click CODE, then "Download zip"
 
 Go to File Explorer -> Right-click on the folder, extract all -> Open the unzipped folder -> Right-click an empty space and open in Terminal
 
-![OPEN IN TERMINAL](IMG/openincmd.png)
+![OPEN IN TERMINAL](img/openincmd.png)
 
 3. Type pip install shapely and wait for the download to complete
 
