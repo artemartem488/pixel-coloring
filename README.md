@@ -36,26 +36,25 @@ control:
 
 ![img paints the square](./img/4.jpg)
 
-* ## ЗАПУСК
-что бы поиграть в лабиринт нужно:
+* ## START
+To play the maze, you need:
 
-1. установить python https://www.python.org/downloads/release/python-3126/ по этой ссылки для совей операционной системы (игра писалась на этой версии)
+1. Install Python https://www.python.org/downloads/release/python-3126/ from this link for your operating system (the game was written on this version)
 
-    обязательно поставить галачку на add python.exe to path
+Be sure to check the box next to "add python.exe to path"
 
-![галачка add python.exe to path](img/installing1.jpg)
+![checkbox next to "add python.exe to path"](img/installing1.jpg)
 
-2. дальше нужно скачать репозиторий 
+2. Next, download the repository
 
-    нажать CODE ,потом Download zip
+Click CODE, then "Download zip"
 
-    ![СКАЧАТЬ РЕПОЗИТОРИЙ](img/downloadzip.png)
+![DOWNLOAD REPOSITORY](img/downloadzip.png)
 
-    зайти в проводник ->  пкм по папке извлечь все -> зайти в разархивированую папку -> по пустому месту правой кнопкой мыши и открыть в терминале
+Go to File Explorer -> Right-click on the folder, extract all -> Open the unzipped folder -> Right-click an empty space and open in Terminal
 
-    ![ОТКРЫТЬ В ТЕРМИНАЛЕ](IMG/openincmd.png)
+![OPEN IN TERMINAL](IMG/openincmd.png)
 
-3. написать pip install shapely
-   и дождаться окончания загрузки
+3. Type pip install shapely and wait for the download to complete
 
-4. пишим в терминале python main.py
+4. Type in the terminal python main.py
