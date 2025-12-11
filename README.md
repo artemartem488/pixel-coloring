@@ -55,6 +55,4 @@ Go to File Explorer -> Right-click on the folder, extract all -> Open the unzipp
 
 ![OPEN IN TERMINAL](img/openincmd.png)
 
-3. Type pip install shapely and wait for the download to complete
-
-4. Type in the terminal python main.py
+3. Type in the terminal python main.py
